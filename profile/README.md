@@ -56,7 +56,7 @@
 ### 🖼️ Screenshots
 
 <p align="center">
-  <img src="https://www.skycheats.com/uploads/monthly_2024_12/m1.webp.b775b5a9063ae4227959cc4690a57e1b.webp" width="600" alt="ESP outline on enemy Doctor Strange inside match view" />
+  <img src="https://www.skycheats.com/uploads/monthly_2024_12/4.webp.68ad9894f527db32b30e6b5f4840d8be.webp" width="600" alt="ESP outline on enemy Doctor Strange inside match view" />
   <br><br>
   <img src="https://www.skycheats.com/uploads/monthly_2024_12/1(2).webp.f03295320e79cf1f10eb8ea426198fa3.webp" width="600" alt="Auto aim snapping to flying character mid-air" />
 </p>
